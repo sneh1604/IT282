@@ -1,0 +1,17 @@
+th{
+color:crimson;
+font-style: oblique;
+font-family: 'Times New Roman', Times, serif;
+}
+td{
+    
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
+body{
+    text-align: center;
+    background-color: chartreuse;
+    background-image: url(2.jpg);
+   
+}
